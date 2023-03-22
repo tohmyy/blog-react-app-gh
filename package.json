@@ -1,7 +1,7 @@
 {
   "name": "16tut",
   "version": "0.1.0",
-  "homepage": "https://tohmyy.github.io/blog-react-app-netlify",
+  "homepage": "https://tohmyy.github.io/blog-react-app-gh",
   "private": true,
   "dependencies": {
     "date-fns": "^2.22.1",
